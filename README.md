@@ -7,7 +7,7 @@ http://localhost:8080/ にアクセスした場合に、index.phpかindex.html�
 ```shell
 git clone git@github.com:okumurakengo/docker-nginx-php.git
 cd docker-nginx-php
-docker compose up -d
+docker-compose up -d
 ```
 
 <img src="image.png">
